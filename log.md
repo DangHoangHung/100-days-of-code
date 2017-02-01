@@ -10,7 +10,7 @@
 **Link to work:**  [Do what is in the tutorial](https://codepen.io/matthewdang131/pen/XpmKLr)
 
 ### Day 1: January 31, 2017
-##### (quiet a slacker today)
+##### (quite a slacker today)
 
 **Today's Progress**: Keep going with the Bootstap tutorial video. Not much progress.
 
