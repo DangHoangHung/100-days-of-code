@@ -21,13 +21,23 @@
 ### Day 2: February 1, 2017 Wednesday
 ##### (quite productive)
 
-**Today's Progress**: I watched the part about carousel, then the glyphicon. The tutorial only mentions about how to add symbols of glyphicon into the webpage. Then it briefly show how to use well and how to manipulate the visualization of images.
+**Today's Progress**: I watched the part about carousel, then the glyphicon. I don't know what happened but carousel didn't work. The tutorial only mentions about how to add symbols of glyphicon into the webpage. Then it briefly show how to use well and how to manipulate the shape of the frame of an image.
 
 **Thoughts**: The tutorial seems to take more time to finish than I had expected. Again I struggle with memorizing the code and how to apply them into the real situation when I have to face with the entire blank page. I know I should upload my code to GitHub but I still don't know how to do that.
+
+**Link(s) to work**: [Do what is in the tutorial](file:///C:/Users/abc/Desktop/index.html#)
+
+### Day 3: February 2, 2017 Thursday
+##### (it's ok, I got stucked)
+
+**Today's Progress**: text color and background color can be changed with the same classes with the button that I had learned before. Dropdown has a problem because I couldn't make it work.
+
+**Thoughts**: It makes me angry when my codes do not work. All I do is to follow the tutorial. I even copy the original codes from the author's page to test but it doesn't work either. Maybe I should write a comment to report this problem to him. I will try it again tomorrow along with the carousel.
 
 **Link(s) to work**: [Do what is in the tutorial](file:///C:/Users/abc/Desktop/index.html#)
 
 **Link(s) to work**
 1. [Do what is in the tutorial](https://codepen.io/matthewdang131/pen/XpmKLr)
 2. [Do what is in the tutorial](file:///C:/Users/abc/Desktop/index.html#)
+3. [The video](https://www.youtube.com/watch?v=gqOEoUR5RHg)
 
