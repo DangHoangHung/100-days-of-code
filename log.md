@@ -36,6 +36,24 @@
 
 **Link(s) to work**: [Do what is in the tutorial](file:///C:/Users/abc/Desktop/index.html#)
 
+### Day 4: February 3, 2017 Friday
+##### (not much)
+
+**Today's Progress**:input group but still stuck with dropdown
+
+**Thoughts**: First I thought it is because of the ajax but after I add ajax, it is still the same.
+
+**Link(s) to work**: [Do what is in the tutorial](file:///C:/Users/abc/Desktop/index.html#)
+
+### Day 5: February 7, 2017 Tuesday
+##### (not much)
+
+**Today's Progress**:Review command lines a little bit, start learning about text editor
+
+**Thoughts**: I finished a short course about command lines but I forget almost all of them and now I try text editor
+
+**Link(s) to work**: [Do what is in the tutorial](file:///C:/Users/abc/Desktop/index.html#)
+
 **Link(s) to work**
 1. [Do what is in the tutorial](https://codepen.io/matthewdang131/pen/XpmKLr)
 2. [Do what is in the tutorial](file:///C:/Users/abc/Desktop/index.html#)
