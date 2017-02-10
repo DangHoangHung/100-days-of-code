@@ -54,8 +54,17 @@
 
 **Link(s) to work**: [Do what is in the tutorial](file:///C:/Users/abc/Desktop/index.html#)
 
+### Day 6: February 10, 2017 Tuesday
+##### (not much)
+
+**Today's Progress**:Study Vim, know how to start it
+
+**Thoughts**: It is really confusing. I have to search google to know how to install and then start Vim.
+
+**Link(s) to work**: [Learn enough text editor to be dangerous](https://www.learnenough.com/text-editor-tutorial)
 **Link(s) to work**
 1. [Do what is in the tutorial](https://codepen.io/matthewdang131/pen/XpmKLr)
 2. [Do what is in the tutorial](file:///C:/Users/abc/Desktop/index.html#)
 3. [The video](https://www.youtube.com/watch?v=gqOEoUR5RHg)
+4. [Learn enough text editor to be dangerous](https://www.learnenough.com/text-editor-tutorial)
 
