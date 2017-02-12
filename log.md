@@ -62,6 +62,17 @@
 **Thoughts**: It is really confusing. I have to search google to know how to install and then start Vim.
 
 **Link(s) to work**: [Learn enough text editor to be dangerous](https://www.learnenough.com/text-editor-tutorial)
+
+
+### Day 7: February 12, 2017 Tuesday
+##### (not much)
+
+**Today's Progress**: Keeping learning the Vim, know how to add info into the file and tossing up with its content
+
+**Thoughts**: After finishing up this I will start learning how to use Git Hub and back to FCC and Java and Front-end stuff.
+
+**Link(s) to work**: [Learn enough text editor to be dangerous](https://www.learnenough.com/text-editor-tutorial)
+
 **Link(s) to work**
 1. [Do what is in the tutorial](https://codepen.io/matthewdang131/pen/XpmKLr)
 2. [Do what is in the tutorial](file:///C:/Users/abc/Desktop/index.html#)
