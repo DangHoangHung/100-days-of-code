@@ -75,11 +75,20 @@
 
 
 ### Day 8: February 13, 2017 Tuesday
-##### (not much)
+##### (little bit)
 
 **Today's Progress**: Finish the first part - learning basic things about Vim
 
-**Thoughts**: I am applying Fayman method.
+**Thoughts**: I am applying Fayman method. It is quite slow
+
+**Link(s) to work**: [Learn enough text editor to be dangerous](https://www.learnenough.com/text-editor-tutorial)
+
+### Day 9: February 14, 2017 Tuesday
+##### (quite slow)
+
+**Today's Progress**: Try to download in install Atom and use terminal to run the file
+
+**Thoughts**: I feel quite strange when I try to learn Atom. A strong feeling that pushes me and makes me quite jumpy. Anyway there is a difference between my operation system (Ubuntu) and the operating system in the tutorial (MacOS). It shows that I should read more to understand how Atom works in this OS. On ther other hand, Atom has quite attractive advantage that I like. However, the dull color can be quite discouraging.
 
 **Link(s) to work**: [Learn enough text editor to be dangerous](https://www.learnenough.com/text-editor-tutorial)
 
