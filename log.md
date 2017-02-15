@@ -92,6 +92,16 @@
 
 **Link(s) to work**: [Learn enough text editor to be dangerous](https://www.learnenough.com/text-editor-tutorial)
 
+
+### Day 10: February 15, 2017 Tuesday
+##### (super slow)
+
+**Today's Progress**: Get stuck a while with Cloud9, read syntax, Markdown language and move around atom
+
+**Thoughts**: Not much
+
+**Link(s) to work**: [Learn enough text editor to be dangerous](https://www.learnenough.com/text-editor-tutorial)
+
 **Link(s) to work**
 1. [Do what is in the tutorial](https://codepen.io/matthewdang131/pen/XpmKLr)
 2. [Do what is in the tutorial](file:///C:/Users/abc/Desktop/index.html#)
