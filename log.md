@@ -102,6 +102,16 @@
 
 **Link(s) to work**: [Learn enough text editor to be dangerous](https://www.learnenough.com/text-editor-tutorial)
 
+
+### Day 11: February 16, 2017 Tuesday
+##### (super slow)
+
+**Today's Progress**: learn basics things about Atom and other modern text editors
+
+**Thoughts**: I think I have done these things already.
+
+**Link(s) to work**: [Learn enough text editor to be dangerous](https://www.learnenough.com/text-editor-tutorial)
+
 **Link(s) to work**
 1. [Do what is in the tutorial](https://codepen.io/matthewdang131/pen/XpmKLr)
 2. [Do what is in the tutorial](file:///C:/Users/abc/Desktop/index.html#)
