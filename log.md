@@ -112,6 +112,16 @@
 
 **Link(s) to work**: [Learn enough text editor to be dangerous](https://www.learnenough.com/text-editor-tutorial)
 
+
+### Day 12: February 17, 2017 Tuesday
+##### (distracted)
+
+**Today's Progress**: Still things about Atom, I change the prompt in terminal
+
+**Thoughts**: I sit in front of the screen for an hour but the amount of time that I spend for coding maybe 15 minutes. I won't beat my self up but I get severely distracted today.
+
+**Link(s) to work**: [Learn enough text editor to be dangerous](https://www.learnenough.com/text-editor-tutorial)
+
 **Link(s) to work**
 1. [Do what is in the tutorial](https://codepen.io/matthewdang131/pen/XpmKLr)
 2. [Do what is in the tutorial](file:///C:/Users/abc/Desktop/index.html#)
