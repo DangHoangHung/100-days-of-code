@@ -122,6 +122,16 @@
 
 **Link(s) to work**: [Learn enough text editor to be dangerous](https://www.learnenough.com/text-editor-tutorial)
 
+
+### Day 13: February 20, 2017 Monday
+##### (distracted)
+
+**Today's Progress**: Atom, Finding, replacing, autocomplete and tab triggers
+
+**Thoughts**: It's gone quite smooth that I think I will finish this course tomorrow.
+
+**Link(s) to work**: [Learn enough text editor to be dangerous](https://www.learnenough.com/text-editor-tutorial)
+
 **Link(s) to work**
 1. [Do what is in the tutorial](https://codepen.io/matthewdang131/pen/XpmKLr)
 2. [Do what is in the tutorial](file:///C:/Users/abc/Desktop/index.html#)
