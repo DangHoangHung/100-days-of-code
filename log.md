@@ -132,6 +132,16 @@
 
 **Link(s) to work**: [Learn enough text editor to be dangerous](https://www.learnenough.com/text-editor-tutorial)
 
+
+### Day 14: February 20, 2017 Monday
+##### (procrastination)
+
+**Today's Progress**: Atom, moving around the text, identation, 80 columns, review process.
+
+**Thoughts**: It takes quite longer than I think. I don't quite understand the concept of process in computer.
+
+**Link(s) to work**: [Learn enough text editor to be dangerous](https://www.learnenough.com/text-editor-tutorial)
+
 **Link(s) to work**
 1. [Do what is in the tutorial](https://codepen.io/matthewdang131/pen/XpmKLr)
 2. [Do what is in the tutorial](file:///C:/Users/abc/Desktop/index.html#)
