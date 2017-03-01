@@ -142,6 +142,15 @@
 
 **Link(s) to work**: [Learn enough text editor to be dangerous](https://www.learnenough.com/text-editor-tutorial)
 
+### Day 15+16+17+18+19+20+21+22: February 21+22+23+24+25+26+27+28, 2017 Monday
+##### (become a sloth)
+
+**Today's Progress**: How to manipulate text files, finding and replacing, tab triggers, advanced text editor, define a command; download, open and edit a new project.
+
+**Thoughts**: I wonder I am becoming lazy now or I'm kind of depressed. It's discouraging when I try but dont see much improvement.
+
+**Link(s) to work**: [Learn enough text editor to be dangerous](https://www.learnenough.com/text-editor-tutorial)
+
 **Link(s) to work**
 1. [Do what is in the tutorial](https://codepen.io/matthewdang131/pen/XpmKLr)
 2. [Do what is in the tutorial](file:///C:/Users/abc/Desktop/index.html#)
