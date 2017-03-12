@@ -54,7 +54,7 @@
 
 **Link(s) to work**: [Do what is in the tutorial](file:///C:/Users/abc/Desktop/index.html#)
 
-### Day 6: February 10, 2017 Tuesday
+### Day 6: February 10, 2017 Thursday
 ##### (not much)
 
 **Today's Progress**:Study Vim, know how to start it
@@ -64,7 +64,7 @@
 **Link(s) to work**: [Learn enough text editor to be dangerous](https://www.learnenough.com/text-editor-tutorial)
 
 
-### Day 7: February 12, 2017 Tuesday
+### Day 7: February 12, 2017 Sunday
 ##### (not much)
 
 **Today's Progress**: Keeping learning the Vim, know how to add info into the file and tossing up with its content
@@ -74,7 +74,7 @@
 **Link(s) to work**: [Learn enough text editor to be dangerous](https://www.learnenough.com/text-editor-tutorial)
 
 
-### Day 8: February 13, 2017 Tuesday
+### Day 8: February 13, 2017 Monday
 ##### (little bit)
 
 **Today's Progress**: Finish the first part - learning basic things about Vim
@@ -93,7 +93,7 @@
 **Link(s) to work**: [Learn enough text editor to be dangerous](https://www.learnenough.com/text-editor-tutorial)
 
 
-### Day 10: February 15, 2017 Tuesday
+### Day 10: February 15, 2017 Wednesday
 ##### (super slow)
 
 **Today's Progress**: Get stuck a while with Cloud9, read syntax, Markdown language and move around atom
@@ -103,7 +103,7 @@
 **Link(s) to work**: [Learn enough text editor to be dangerous](https://www.learnenough.com/text-editor-tutorial)
 
 
-### Day 11: February 16, 2017 Tuesday
+### Day 11: February 16, 2017 Thursday
 ##### (super slow)
 
 **Today's Progress**: learn basics things about Atom and other modern text editors
@@ -113,7 +113,7 @@
 **Link(s) to work**: [Learn enough text editor to be dangerous](https://www.learnenough.com/text-editor-tutorial)
 
 
-### Day 12: February 17, 2017 Tuesday
+### Day 12: February 17, 2017 Friday
 ##### (distracted)
 
 **Today's Progress**: Still things about Atom, I change the prompt in terminal
@@ -133,7 +133,7 @@
 **Link(s) to work**: [Learn enough text editor to be dangerous](https://www.learnenough.com/text-editor-tutorial)
 
 
-### Day 14: February 20, 2017 Monday
+### Day 14: February 21, 2017 Tuesday
 ##### (procrastination)
 
 **Today's Progress**: Atom, moving around the text, identation, 80 columns, review process.
@@ -142,7 +142,7 @@
 
 **Link(s) to work**: [Learn enough text editor to be dangerous](https://www.learnenough.com/text-editor-tutorial)
 
-### Day 15+16+17+18+19+20+21+22: February 21+22+23+24+25+26+27+28, 2017 Monday
+### Day 15+16+17+18+19+20+21+22: February 21+22+23+24+25+26+27+28, 2017 
 ##### (become a sloth)
 
 **Today's Progress**: How to manipulate text files, finding and replacing, tab triggers, advanced text editor, define a command; download, open and edit a new project.
@@ -151,9 +151,19 @@
 
 **Link(s) to work**: [Learn enough text editor to be dangerous](https://www.learnenough.com/text-editor-tutorial)
 
+### Day 23: March 8, 2017 Sunday
+##### (missing a lot of days)
+
+**Today's Progress**: I finally finish the course about Text editor. I will start learning Git from tommorow
+
+**Thoughts**: I lost count of the day. I need to get back on track.
+
+**Link(s) to work**: [Learn enough Git to be dangerous](https://www.learnenough.com/git-tutorial#sec-viewing_the_diff)
+
 **Link(s) to work**
 1. [Do what is in the tutorial](https://codepen.io/matthewdang131/pen/XpmKLr)
 2. [Do what is in the tutorial](file:///C:/Users/abc/Desktop/index.html#)
 3. [The video](https://www.youtube.com/watch?v=gqOEoUR5RHg)
 4. [Learn enough text editor to be dangerous](https://www.learnenough.com/text-editor-tutorial)
+5. [Learn enough Git to be dangerous](https://www.learnenough.com/git-tutorial#sec-viewing_the_diff)
 
